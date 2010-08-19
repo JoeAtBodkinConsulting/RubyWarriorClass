@@ -1,0 +1,5 @@
+This project contains the solutions to the Ruby Warrior challenge from the Center For Bright Kids class during the summer of 2010.  For more information go to http://www.BodkinConsulting.com/cbk.
+
+Create your player and copy these files into the same directory as your player.rb.  When you want to know how to pass a specific level, look at the solution for that level.  All the files are player.rb.l<number>, where the character before the number is not the number one but the letter 'ell', and the number is the level it solved.  Comments at the top describe how we made our warrior smarter for each level.
+
+There are not solutions for level 6 (save the captive behind) or 9, because it is possible to complete the level with the warrior from before.
